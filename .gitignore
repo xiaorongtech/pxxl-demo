@@ -1,0 +1,7 @@
+.uuid
+.env
+.env.*
+!.env.example
+sub/
+*.sub
+node_modules/

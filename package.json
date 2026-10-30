@@ -1,0 +1,13 @@
+{
+  "name": "pxxl-vless-ws",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node -e \"console.log('no build needed')\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
